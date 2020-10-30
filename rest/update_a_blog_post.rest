@@ -1,0 +1,10 @@
+PUT http://localhost:3003/api/blogs/5f60c0e597e8401ac4c12463
+Content-Type: application/json
+
+{
+    "id": "5f60c0e597e8401ac4c12463",
+    "title": "Rage",
+    "user": "Bob Woodward",
+    "url": "https://www.amazon.com/Rage-Bob-Woodward/dp/198213173X/ref=pd_bkstr_rtpb_1/140-9413548-3865059?_encoding=UTF8&pd_rd_i=198213173X&pd_rd_r=40ed6e5b-5020-4352-96a9-ae4f78ca4e97&pd_rd_w=rxCqH&pd_rd_wg=BHHdu&pf_rd_p=ac0c7947-b7ae-4184-b87e-ed20037bfa44&pf_rd_r=YPCPK39JG8HHDY5GH44D&psc=1&refRID=YPCPK39JG8HHDY5GH44D",
+    "likes": 5000
+}

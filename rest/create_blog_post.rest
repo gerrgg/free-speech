@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1sdXVra2FpIiwiaWQiOiI1ZjYxMTc5NGY0MjdmZjc0MzUwZGE1M2QiLCJpYXQiOjE2MDAzNTI2OTN9.eDClOxpY1CtsnzhDt625sC2c9wdv53RTpSSxxZX-MFY
+
+{ 
+   "title": "The Cat in the Hat 55",
+   "url": "https://www.storyjumper.com/book/read/44442296/The-Cat-in-the-Hat#page/1",
+   "likes": 500 
+}
